@@ -1,5 +1,5 @@
 {
-  "homepage": "/",
+  "homepage": ".",
   "name": "testdeploygithub",
   "version": "0.1.0",
   "private": true,
